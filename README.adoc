@@ -1,4 +1,4 @@
-= 🧵 Core Rope Memory — Arduino Replica (Revised)
+= 🧵 Core Rope Memory — Arduino Replica
 :toc:
 :toc-title: Table of Contents
 
