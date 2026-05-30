@@ -1,7 +1,7 @@
 = 🧵 Core Rope Memory — Arduino Replica
 :toc:
 :toc-title: Table of Contents
- 
+  
 A functional replica of 1960s NASA-era core rope memory, the read-only storage
 technology that flew humans to the Moon aboard the Apollo Guidance Computer.
 This project encodes binary data physically by weaving wires through ferrite
